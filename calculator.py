@@ -7,7 +7,7 @@ if (z==-):
     print(x-y)
 if (z==*):
    print(x*y)
-if(z==/)
+if(z==/):
    print(x/y)
    
    
